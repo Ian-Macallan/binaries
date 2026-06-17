@@ -7,4 +7,4 @@ tags: MMS
 
  Macallan Mail Solution
 =======================
-
+Binaries can be found in MMSSetup.
